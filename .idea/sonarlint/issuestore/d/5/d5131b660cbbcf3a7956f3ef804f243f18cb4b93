@@ -1,0 +1,185 @@
+
+G
+java:S1874".Remove this use of "facing"; it is deprecated.(©ÿèıÿÿÿÿ
+R
+java:S1874"9Remove this use of "addCallbackBuffer"; it is deprecated.(›ıÎÖùÿÿÿÿ
+L
+java:S1874"8Remove this use of "setPreviewFormat"; it is deprecated.(õ¢‘•
+H
+java:S1874"5Remove this use of "getCameraInfo"; it is deprecated.(¦ÄÀ1
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(È”Ï“øÿÿÿÿ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(íÍî®
+H
+java:S1066"/Merge this if statement with the enclosing one.(ÙŸŠùÿÿÿÿ
+W
+java:S1874">Remove this use of "getSupportedFocusModes"; it is deprecated.(¥ÛÆâùÿÿÿÿ
+A
+java:S1874"-Remove this use of "width"; it is deprecated.(ãÌ½Î
+N
+java:S1874":Remove this use of "setPreviewCallback"; it is deprecated.(ö™·
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(´û‹ÿÿÿÿÿ
+F
+java:S1874"2Remove this use of "CameraInfo"; it is deprecated.(ìÊÙ™
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(ìÊÙ™
+P
+java:S1874"7Remove this use of "PreviewCallback"; it is deprecated.(²°èËøÿÿÿÿ
+S
+java:S1874":Remove this use of "getNumberOfCameras"; it is deprecated.(È”Ï“øÿÿÿÿ
+N
+java:S1874"5Remove this use of "getParameters"; it is deprecated.(²±³¢ùÿÿÿÿ
+R
+java:S1874"9Remove this use of "setPreviewDisplay"; it is deprecated.(ô³¦Ğüÿÿÿÿ
+D
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ
+K
+java:S1874"2Remove this use of "Parameters"; it is deprecated.(²±³¢ùÿÿÿÿ
+\
+java:S1874"CRemove this use of "FOCUS_MODE_CONTINUOUS_VIDEO"; it is deprecated.(ñ€×“üÿÿÿÿ
+F
+java:S1874"-Remove this use of "width"; it is deprecated.(ƒ›Íºüÿÿÿÿ
+S
+java:S1874":Remove this use of "getNumberOfCameras"; it is deprecated.(È”Ï“øÿÿÿÿ
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(²±³¢ùÿÿÿÿ
+\
+java:S1874"CRemove this use of "FOCUS_MODE_CONTINUOUS_VIDEO"; it is deprecated.(…½Â©üÿÿÿÿ
+L
+java:S1197"8Move the array designator from the variable to the type.(Ç´Ğ
+R
+java:S1874"9Remove this use of "addCallbackBuffer"; it is deprecated.(›ıÎÖùÿÿÿÿ
+5
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(ÌÃÀÿÿÿÿÿ
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(ìÊÙ™
+K
+java:S1874"2Remove this use of "CameraInfo"; it is deprecated.(ÌÃÀÿÿÿÿÿ
+X
+java:S1874"DRemove this use of "setPreviewCallbackWithBuffer"; it is deprecated.(É©¶
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(§’ûŞøÿÿÿÿ
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(§û© 
+C
+java:S1874"/Remove this use of "release"; it is deprecated.(É½²°
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(§û© 
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(Åı¸‹ùÿÿÿÿ
+E
+java:S1874",Remove this use of "open"; it is deprecated.(´û‹ÿÿÿÿÿ
+F
+java:S1874"2Remove this use of "CameraInfo"; it is deprecated.(ìÊÙ™
+H
+java:S1874"5Remove this use of "getCameraInfo"; it is deprecated.(¦ÄÀ1
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(ìÊÙ™
+E
+java:S1874",Remove this use of "open"; it is deprecated.(§’ûŞøÿÿÿÿ
+K
+java:S1874"2Remove this use of "Parameters"; it is deprecated.(ñ€×“üÿÿÿÿ
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(…½Â©üÿÿÿÿ
+@
+java:S1874",Remove this use of "Size"; it is deprecated.(§û© 
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(ñÈ–ˆûÿÿÿÿ
+N
+java:S1874"5Remove this use of "getParameters"; it is deprecated.(¦È¡ìÿÿÿÿÿ
+S
+java:S1874":Remove this use of "getNumberOfCameras"; it is deprecated.(È”Ï“øÿÿÿÿ
+O
+java:S1874"6Remove this use of "setPreviewSize"; it is deprecated.(É‰‹Œüÿÿÿÿ
+\
+java:S1192"HDefine a constant instead of duplicating this literal "generic" 3 times.(şé ñ
+L
+java:S1874"8Remove this use of "getPreviewFormat"; it is deprecated.(À È
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(ñ€×“üÿÿÿÿ
+T
+java:S1874";Remove this use of "CAMERA_FACING_FRONT"; it is deprecated.(©ÿèıÿÿÿÿ
+K
+java:S1874"2Remove this use of "Parameters"; it is deprecated.(…½Â©üÿÿÿÿ
+R
+java:S1874"9Remove this use of "setPreviewTexture"; it is deprecated.(‡šÂüûÿÿÿÿ
+S
+java:S1874":Remove this use of "CAMERA_FACING_BACK"; it is deprecated.(ÌÃÀÿÿÿÿÿ
+F
+java:S1874"2Remove this use of "CameraInfo"; it is deprecated.(ìÊÙ™
+L
+java:S1874"8Remove this use of "setPreviewFormat"; it is deprecated.(òªş
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(§û© 
+I
+java:S1874"5Remove this use of "setParameters"; it is deprecated.(Ä¢’é
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(È”Ï“øÿÿÿÿ
+M
+java:S1874"4Remove this use of "setFocusMode"; it is deprecated.(ñ€×“üÿÿÿÿ
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(ìÊÙ™
+D
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ
+Q
+java:S1874"8Remove this use of "setRecordingHint"; it is deprecated.(ş‚Ü™ÿÿÿÿÿ
+O
+java:S1874"6Remove this use of "getPreviewSize"; it is deprecated.(ƒ›Íºüÿÿÿÿ
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(§Ïöîûÿÿÿÿ
+O
+java:S1874"6Remove this use of "getPreviewSize"; it is deprecated.(¦ª®Şøÿÿÿÿ
+G
+java:S1874".Remove this use of "height"; it is deprecated.(¦ª®Şøÿÿÿÿ
+E
+java:S1874",Remove this use of "open"; it is deprecated.(ñÈ–ˆûÿÿÿÿ
+@
+java:S1874",Remove this use of "Size"; it is deprecated.(§û© 
+@
+java:S1874",Remove this use of "Size"; it is deprecated.(§û© 
+L
+java:S1874"8Remove this use of "getPreviewFormat"; it is deprecated.(Õï¯™
+@
+java:S1874",Remove this use of "Size"; it is deprecated.(§û© 
+K
+java:S1874"2Remove this use of "CameraInfo"; it is deprecated.(©ÿèıÿÿÿÿ
+r
+java:S1450"^Remove the "mSurfaceTexture" field and declare it as a local variable in the relevant methods.(µÏ‚
+L
+java:S1874"3Remove this use of "stopPreview"; it is deprecated.( ¬’‰ûÿÿÿÿ
+E
+java:S1874",Remove this use of "Size"; it is deprecated.(€Û²œúÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÛÆâùÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ú‹é
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(È”Ï“øÿÿÿÿ
+A
+java:S1874".Remove this use of "Camera"; it is deprecated.(¦ÄÀ1
+G
+java:S1874".Remove this use of "facing"; it is deprecated.(ÌÃÀÿÿÿÿÿ
+A
+java:S1874".Remove this use of "Camera"; it is deprecated.(¦ÄÀ1
+M
+java:S1874"4Remove this use of "startPreview"; it is deprecated.(ŒÊ—Íıÿÿÿÿ
+V
+java:S2387"B"mPreviewFormat" is the name of a field in "CameraBridgeViewBase".(¶êö
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(€Û²œúÿÿÿÿ
+F
+java:S1874"2Remove this use of "CameraInfo"; it is deprecated.(ìÊÙ™
+G
+java:S1874".Remove this use of "height"; it is deprecated.(îİâçşÿÿÿÿ
+B
+java:S1874".Remove this use of "Camera"; it is deprecated.(§û© 
+G
+java:S1874".Remove this use of "Camera"; it is deprecated.(©ÿèıÿÿÿÿ
+Y
+java:S1874"@Remove this use of "getSupportedPreviewSizes"; it is deprecated.(€Û²œúÿÿÿÿ

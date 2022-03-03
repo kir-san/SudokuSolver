@@ -1,0 +1,40 @@
+
+c
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(¢Âª›
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§°ğÿÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À“˜ô
+h
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_NEGATIVE".(®è¾Ãøÿÿÿÿ
+d
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Üï•ıÿÿÿÿ
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÿ›ª•
+c
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(óã¶
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï­ß±
+c	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ç³
+h
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(²“áùÿÿÿÿ
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+b
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(’Æ®
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+h
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(¥”¢üÿÿÿÿ
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿ­
+:	java:S131""Add a default case to this switch.(Üï•ıÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¯Ÿö
+h
+java:S3252"OUse static access with "android.content.DialogInterface" for "BUTTON_NEGATIVE".(û‚Ã‚ùÿÿÿÿ

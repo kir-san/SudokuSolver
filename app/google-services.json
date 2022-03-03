@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498202655580",
+    "firebase_url": "https://manger-1ae06.firebaseio.com",
+    "project_id": "manger-1ae06",
+    "storage_bucket": "manger-1ae06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498202655580:android:50c6cdd87f2bc7079d9f99",
+        "android_client_info": {
+          "package_name": "com.san.kir.sudokusolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498202655580-0rgnmb9jtih4p1ceo53h6sotvcnn51gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxzwfHfMv49Q6E0aJS124y6NboykjsD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498202655580-0rgnmb9jtih4p1ceo53h6sotvcnn51gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

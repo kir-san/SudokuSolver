@@ -1,0 +1,37 @@
+
+R
+java:S1066Þ"/Merge this if statement with the enclosing one.(¥æ§Ÿüÿÿÿÿ8†¼Ü¡ë.
+?	java:S131Ð""Add a default case to this switch.(þ™ÅÞ8†¼Ü¡ë.
+?
+java:S1116ˆ"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.
+?
+java:S1116Ë"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.
+P
+java:S1135…"2Complete the task associated to this TODO comment.(ŽÜ¡û8†¼Ü¡ë.
+?
+java:S1116¾"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.
+C
+java:S1905à"&Remove this unnecessary cast to "int".(æÀ£Y8†¼Ü¡ë.
+D
+java:S1905ß"&Remove this unnecessary cast to "int".(¼‰«Ô8†¼Ü¡ë.
+[
+java:S5993B"9Change the visibility of this constructor to "protected".(ÕÚÊ±úÿÿÿÿ8žãâ¹ì.
+?
+java:S1116Ç"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.
+?
+java:S1116­"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.
+?	java:S131¾""Add a default case to this switch.(þ™ÅÞ8†¼Ü¡ë.
+?
+java:S1116¢"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.
+i
+java:S1301Ð"KReplace this "switch" statement by "if" statements to increase readability.(þ™ÅÞ8†¼Ü¡ë.
+k	java:S100ž"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’²¯Å8†¼Ü¡ë.
+p	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þã¡çûÿÿÿÿ8†¼Ü¡ë.
+i
+java:S1301¾"KReplace this "switch" statement by "if" statements to increase readability.(þ™ÅÞ8†¼Ü¡ë.
+O
+java:S1135n"2Complete the task associated to this TODO comment.(ŽÜ¡û8†¼Ü¡ë.
+V
+java:S5993:"9Change the visibility of this constructor to "protected".(Þ¬¨Î8žãâ¹ì.
+?
+java:S1116×"Remove this empty statement.(ôŸŽìúÿÿÿÿ8†¼Ü¡ë.

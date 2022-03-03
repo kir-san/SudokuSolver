@@ -1,0 +1,31 @@
+
+V
+java:S2387"B"mPreviewFormat" is the name of a field in "CameraBridgeViewBase".(‚ïÍÔ
+3
+java:S1659"Declare "h" on a separate line.(òè¨‘
+l
+java:S3252"XUse static access with "android.hardware.camera2.CameraMetadata" for "LENS_FACING_BACK".(€şœË
+5
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÖÒŠÿÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌãöŞÿÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨â¡£ÿÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¯¥
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óèÄ 
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¨Ü°
+m
+java:S3252"YUse static access with "android.hardware.camera2.CameraMetadata" for "LENS_FACING_FRONT".(®’´¡
+ƒ
+java:S3252"jUse static access with "android.hardware.camera2.CameraMetadata" for "CONTROL_AF_MODE_CONTINUOUS_PICTURE".(œŒÁ¿ùÿÿÿÿ
+y
+java:S3252"eUse static access with "android.hardware.camera2.CameraMetadata" for "CONTROL_AE_MODE_ON_AUTO_FLASH".(Ú”œò
+Q
+java:S1197"8Move the array designator from the variable to the type.(ç‡æ¤ıÿÿÿÿ
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Í–Ñ¬
+3
+java:S1659"Declare "h" on a separate line.(À¿»®
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌãöŞÿÿÿÿÿ
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+;
+java:S1659"(Declare "bestHeight" on a separate line.(”°í6

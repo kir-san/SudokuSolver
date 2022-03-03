@@ -1,0 +1,11 @@
+
+j
+java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(İÁƒïıÿÿÿÿ
+k
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(İÁƒïıÿÿÿÿ
+=
+java:S1659"$Declare "height" on a separate line.(İÁƒïıÿÿÿÿ
+g
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ö½¾
+\
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(ö½¾

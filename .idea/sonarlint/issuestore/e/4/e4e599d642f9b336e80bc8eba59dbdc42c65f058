@@ -1,0 +1,7 @@
+
+d
+java:S20958"IUse try-with-resources or close this "InputStream" in a "finally" clause.(¬Î¦§üÿÿÿÿ
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹õ‘ùÿÿÿÿ
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÀ¦¨ûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¼Øûì
